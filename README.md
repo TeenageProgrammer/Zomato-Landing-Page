@@ -16,7 +16,7 @@ Images used in this project are listed above.
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Main Zomato Color | ![#e23745](https://via.placeholder.com/10/e23745?text=+) #e23745 |
+| Main Zomato Color | ![](https://via.placeholder.com/10/e23745?text=+) #e23745 |
 
 
 
